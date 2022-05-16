@@ -1,10 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-# heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
-
 
 # dependencies
 /node_modules
-node_modules
+node
 /.pnp
 .pnp.js
 
