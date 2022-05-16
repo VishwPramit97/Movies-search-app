@@ -47,4 +47,4 @@ This is a movie library web application, which is having following features like
 - 5.Created playlist can be seen by the logged in user.
 <br/>
 
-# Thank you !
+## Thank you !
