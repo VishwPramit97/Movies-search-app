@@ -1,4 +1,21 @@
 <div align="center">
+  <h1>Movie Library Web APP</h1>
+  
+</div>
+Heroku Link:
+
+## About-
+This is web based movie search applications ,This web application is having following features.
+- Login
+- Register
+- Logout
+- Authentication
+- Search Movie from the OMDB movie API
+- Show the List Of Movies
+- Create Playlist from the List Of Movies
+- Remove Movie from the playlist
+<br/>
+<div align="center">
   <h1> Movies-search-app </h1>  
 </div>
 
