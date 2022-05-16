@@ -1,10 +1,10 @@
 <div align="center">
-  <h1># Movies-search-app</h1>  
+  <h1> Movies-search-app </h1>  
 </div>
 ## Descriptions
 This is a movie library web application, which is having following features like-
- 1.Login / Logout.
- 2.Sign Up / Sign In.
+- Login / Logout.
+- Sign Up / Sign In.
  3.Authentication of (Sign Up / Sign In) with Database.
  4.Search the Movie list from the OMDB movie API.
  5.Show the List Of all Movies related to that name.
