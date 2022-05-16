@@ -44,7 +44,7 @@ This is a movie library web application, which is having following features like
 - 2.Once you are registered,you can login.
 - 3.The moment you are loggedin,you will be prompted to new routes that is movie.
 - 4.From this routes,one can search movie and create playlist from the list of movies.
-- 5. Created playlist can be seen by the logged in user.
+- 5.Created playlist can be seen by the logged in user.
 <br/>
 
 # Thank you !
