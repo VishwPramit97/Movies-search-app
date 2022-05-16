@@ -1,4 +1,7 @@
-# Movies-search-app
+<div align="center">
+  <h1># Movies-search-app</h1>  
+</div>
+## Descriptions
 This is a movie library web application, which is having following features like-
  1.Login / Logout.
  2.Sign Up / Sign In.
@@ -7,8 +10,9 @@ This is a movie library web application, which is having following features like
  5.Show the List Of all Movies related to that name.
  6.Create Playlist from the Search List Of Movies.
  7.Remove Movie list from the Created playlist.
+ <br/>
 
-Tech Stack Used In this Project
+## Tech Stack Used In this Project
 1.JavaScript
 2.React
 3.CSS
@@ -17,8 +21,9 @@ Tech Stack Used In this Project
 6.Mongoose
 7.Heroku
 8.Git and Github
+<br/>
 
-Steps to run this application on local system-
+## Steps to run this application on local system-
 1.Clone this project repo.
 2.Extract the file and cd to folder.
 3.Run command 'npm install'
@@ -36,5 +41,5 @@ Steps to run this application on local system-
 -The moment you are loggedin,you will be prompted to new routes that is movie.
 -From this routes,one can search movie and create playlist from the list of movies.
 -Created playlist can be seen by the logged in user.
-
-Thank you !
+<br/>
+# Thank you !
