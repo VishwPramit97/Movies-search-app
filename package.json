@@ -2,18 +2,13 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "engines":{
-    "node": "16.15.0"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
-    "concurrently": "^7.2.0",
     "materialize-css": "^1.0.0",
-    "nodemon": "^2.0.16",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
@@ -25,11 +20,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "node server/server",
-    "server": "nodemon server/server",
-    "client": "react-scripts start",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm run react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
