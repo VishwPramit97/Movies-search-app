@@ -1,12 +1,12 @@
 # Movies-search-app
 This is a movie library web application, which is having following features like-
-1.Login / Logout.
-2.Sign Up / Sign In.
-4.Authentication of (Sign Up / Sign In) with Database.
-5.Search the Movie list from the OMDB movie API.
-6.Show the List Of all Movies related to that name.
-7.Create Playlist from the Search List Of Movies.
-8.Remove Movie list from the Created playlist.
+ 1.Login / Logout.
+ 2.Sign Up / Sign In.
+ 3.Authentication of (Sign Up / Sign In) with Database.
+ 4.Search the Movie list from the OMDB movie API.
+ 5.Show the List Of all Movies related to that name.
+ 6.Create Playlist from the Search List Of Movies.
+ 7.Remove Movie list from the Created playlist.
 
 Tech Stack Used In this Project
 1.JavaScript
