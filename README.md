@@ -1,11 +1,12 @@
 <div align="center">
   <h1>Movies-search-app</h1>
-  
 </div>
-Heroku Link:
+<br/>
+
+## Deployment Link: https://movies-app5.herokuapp.com/
 
 ## Descriptions-
-This is a movie library web application, which is having following features like-.
+This is a movie library web application, which is having following features like-
 - Login / Logout
 - Sign Up / Sign In
 - Authentication of (Sign Up / Sign In) With DataBase
@@ -14,7 +15,6 @@ This is a movie library web application, which is having following features like
 - Create Playlist from the Search List Of Movies
 - Remove Movie list from the Created playlist
 <br/>
-
 
 ## Tech Stack Used In this Project-
 - JavaScript
@@ -40,11 +40,11 @@ This is a movie library web application, which is having following features like
 - Run command 'npm start'
 -  At this point both client and servers are running.
 -  Now you will prompted to home routes
--Go and register
--Once you are registered,you can login.
--The moment you are loggedin,you will be prompted to new routes that is movie.
--From this routes,one can search movie and create playlist from the list of movies.
--Created playlist can be seen by the logged in user.
+- 1.Go and register
+- 2.Once you are registered,you can login.
+- 3.The moment you are loggedin,you will be prompted to new routes that is movie.
+- 4.From this routes,one can search movie and create playlist from the list of movies.
+- 5. Created playlist can be seen by the logged in user.
 <br/>
 
 # Thank you !
